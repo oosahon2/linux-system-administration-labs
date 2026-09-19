@@ -290,16 +290,16 @@ Recommended GitHub structure:
     └── 06-overwrite-and-append.jpg
 ```
 
-Suggested Markdown placement after uploading the images:
+## Screenshots
 
-```markdown
+
 ![User and Ubuntu version](images/01-user-and-ubuntu-version.jpg)
 ![Linux root filesystem](images/02-root-filesystem.jpg)
 ![Directory navigation](images/03-directory-navigation.jpg)
 ![Creating the lab directory](images/04-create-lab-directory.jpg)
 ![Creating and inspecting a file](images/05-create-and-inspect-file.jpg)
 ![Overwrite and append demonstration](images/06-overwrite-and-append.jpg)
-```
+
 
 ## What I Learned
 
