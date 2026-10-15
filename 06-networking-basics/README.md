@@ -126,3 +126,17 @@ Evidence: [Port disappears](images/10-port-closed.jpeg), [Connection fails](imag
 ## Notes
 
 This was a local WSL practice lab. `127.0.0.1:8000` was the Python server inside Ubuntu; it was not a publicly reachable website. The DNS utility `nslookup` was unavailable in this Ubuntu installation, so `getent` supplied the name-resolution evidence.
+
+## Lab Screenshots
+
+![IP address](images/01-ip-address.jpeg)
+![Default route](images/02-route.jpeg)
+![Ping test](images/03-ping.jpeg)
+![Name resolution](images/04-name-resolution.jpeg)
+![HTTPS response](images/05-https-response.jpeg)
+![Listening ports](images/06-listening-ports.jpeg)
+![Server started](images/07-server-started.jpeg)
+![Port 8000 listening](images/08-port-8000-listening.jpeg)
+![Local HTTP 200 response](images/09-local-http-200.jpeg)
+![Port closed](images/10-port-closed.jpeg)
+![Connection failed](images/11-connection-failed.jpeg)
